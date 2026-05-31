@@ -1,0 +1,4 @@
+{
+  "enforceLicensing": true,
+  "note": "Set enforceLicensing to false to permanently disable all license checks across CircuitDesigner and PayWeekManager. Apps will then run on any machine regardless of Firebase."
+}
